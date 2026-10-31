@@ -1,0 +1,19 @@
+# API 키가 들어있는 파일 (절대 올리지 않기)
+.env
+
+# 가상환경
+venv/
+.venv/
+
+# 파이썬/주피터가 자동으로 만드는 파일
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 벡터DB 저장 폴더
+chroma_db/
+*.sqlite3
+
+# OS 파일
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+# Part 1 RAG 실습에 필요한 것
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langgraph
+pypdf
+chromadb
+python-dotenv
+langsmith
+jupyter
+ipykernel
+
+# Part 2 이후 필요해지면 주석(#)을 지우고 다시 설치하세요
+# openai-agents
+# exa-py
